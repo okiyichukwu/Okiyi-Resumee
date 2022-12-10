@@ -51,12 +51,12 @@ __CBIZ__, San Diego, CA
 `April 2021 - Present`
 __Purchasing Department__, Purchasing Contract Assistant
 
-- Under the direction of the Purchasing Contract Supervisor:
+- Under the direction of the Purchasing Contract Supervisor I:
 
-- I administer contracts; liaise with the user department and with suppliers to 
+- Administer contracts; liaise with the user department and with suppliers to 
 monitor performance, to ensure compliance and to resolve any eventual disputes.
 
-- •	Develop and manage contract renewal schedules for all ongoing requirement contracts by contacting the end user department and cost center managers to ensure that the contract is still needed, negotiate with the vendor to get the best deal for the school.
+- Develop and manage contract renewal schedules for all ongoing requirement contracts by contacting the end user department and cost center managers to ensure that the contract is still needed, negotiate with the vendor to get the best deal for the school.
 
 `Novermber 2019 - April 2021`
 __Tutoring Department__, Financial and Managerial Accounting Tutor
@@ -65,7 +65,7 @@ __Tutoring Department__, Financial and Managerial Accounting Tutor
 
 - Explained different course concepts like analyzing, preparing, and posting of journal entries to the appropriate accounts.
 
-- •	Assisted over 100+ students in developing study skills and organization techniques suitable for these courses, which has helped improve their academic performance.
+- Assisted over 100+ students in developing study skills and organization techniques suitable for these courses, which has helped improve their academic performance.
 
 ## Service and Work History
 
