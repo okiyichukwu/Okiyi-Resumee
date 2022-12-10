@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Ebuka Okiyi's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Chukwuebuka Okiyi
+ - www.linkedin.com/in/chukwuebukasimeonokiyi
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,13 +16,13 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`Expected 2023`
+__Boise State University__, Boise, ID
 
 - 4.0 Major GPA
 
@@ -31,59 +31,50 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2022 - March 2022`
+__Ernst & Young __, Atlanta, GA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Assisted staffs and seniors in conducting walkthroughs and test of the audit client’s controls.
 
-### Data Science Lead
+- Worked closely with the clients to request, analyze and compile audit evidence.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`April 2021 - August 2021`
+__CBIZ__, San Diego, CA
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Performed preliminary valuation, forensic, and appraisal analyses, including the development of comparative adjusted financial statements and data input for expert witness exhibits.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Gained an understanding of accounting framework, tax law, and audit methodologies and their applicability to the litigation environment.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Brigham Young University Idaho
 
-### Data Science Consulting Team
+`April 2021 - Present`
+__Purchasing Department__, Purchasing Contract Assistant
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Under the direction of the Purchasing Contract Supervisor:
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- I administer contracts; liaise with the user department and with suppliers to 
+monitor performance, to ensure compliance and to resolve any eventual disputes.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- •	Develop and manage contract renewal schedules for all ongoing requirement contracts by contacting the end user department and cost center managers to ensure that the contract is still needed, negotiate with the vendor to get the best deal for the school.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Novermber 2019 - April 2021`
+__Tutoring Department__, Financial and Managerial Accounting Tutor
 
+- Through one on one or group sessions, I assisted students in understanding clearer the concepts of preparing accurate financial statement and properly reconciling bank statements.
+
+- Explained different course concepts like analyzing, preparing, and posting of journal entries to the appropriate accounts.
+
+- •	Assisted over 100+ students in developing study skills and organization techniques suitable for these courses, which has helped improve their academic performance.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2014-2016`
+__Service Missionary__, Accra, Ghana
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
