@@ -17,14 +17,15 @@ title: Ebuka Okiyi's Resume
 ## Education
 
 `2019-2022`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Barchelor's degree with 3.87 GPA
 
 `Expected 2023`
 __Boise State University__, Boise, ID
 
-- 4.0 Major GPA
+- Master's degree
 
 
 ## Related Experience
